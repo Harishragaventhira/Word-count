@@ -29,6 +29,7 @@ def program():
  program()
 ### OUTPUT:
 ![Screenshot 2024-01-02 143820](https://github.com/Harishragaventhira/Word-count/assets/145548269/02537ae3-464a-48a8-bf21-cfd0e8c4622e)
-![Screenshot 2024-01-02 143929](https://github.com/Harishragaventhira/Word-count/assets/145548269/68b0fc7f-f66b-409c-ba89-1360657f7c90)
+![Uploading Screenshot 2024-01-02 144429.png…]()
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
